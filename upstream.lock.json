@@ -1,0 +1,534 @@
+{
+  "editionVersion": "1.0.0",
+  "upstream": {
+    "repository": "https://github.com/Hainrixz/the-architect",
+    "commit": "cfa739a24ee0ea8bbb36a73e404ed9d59236b4ec"
+  },
+  "installedBase": {
+    "name": "architect",
+    "files": [
+      {
+        "path": "agents/blueprint-validator.md",
+        "sha256": "ce2c612583b8cc13eee5d65dc1b7d937007d706ebdcf2d92cb8395c9c950bfd2"
+      },
+      {
+        "path": "agents/blueprint-writer.md",
+        "sha256": "f89f49774fe6381d4a033b9147c7f2cdefd6409632ffa57b515e1b30114a7748"
+      },
+      {
+        "path": "agents/stack-researcher.md",
+        "sha256": "8fb1f041f4053ca9a042cf8c30deca91061b74f807d0a139ad43cacb3b7ef08f"
+      },
+      {
+        "path": "assets/social-preview.jpg",
+        "sha256": "fa33e4d96d218f4e13c72d78c6eb2c9313447ddc1fb482870d988734e59641cf"
+      },
+      {
+        "path": "commands/architect-brownfield.md",
+        "sha256": "b8979ca06cd5c41e0a683a318b5ebbf7a12c8857e688f801111a608043ba0361"
+      },
+      {
+        "path": "knowledge/capabilities/accessibility.md",
+        "sha256": "29e9d8439791510f125876101fb20b1ecb47f2d68b118e50ec6ca0147d084b4c"
+      },
+      {
+        "path": "knowledge/capabilities/agent-loop.md",
+        "sha256": "dd0dc568faa67b24b5ab2b2c2073b48f999a317bc3d0ce51389aec7c7494746d"
+      },
+      {
+        "path": "knowledge/capabilities/ai-llm-integration.md",
+        "sha256": "5e99d1604a4c2413a1d0916825deab5d2c4a839ef6e84f39110c8178fe1c198a"
+      },
+      {
+        "path": "knowledge/capabilities/api-design.md",
+        "sha256": "e7abb4cf338a9286f582d5313eed4a8ad60c20a90d0574e44ff990486b5e88b8"
+      },
+      {
+        "path": "knowledge/capabilities/auth.md",
+        "sha256": "723c61e4173eb625743bde022cc69c90b80acadb08d076fd7cf2591bc5685d82"
+      },
+      {
+        "path": "knowledge/capabilities/availability-engine.md",
+        "sha256": "f5d7968ba17cbea92e4b34dd71e4c891bceca92d64de55ba973ac7f426cdaf50"
+      },
+      {
+        "path": "knowledge/capabilities/credit-metering.md",
+        "sha256": "4522dbb54db10543867847bc8fc751a5eb5f59145cfd87702c3b3b004aaaec0f"
+      },
+      {
+        "path": "knowledge/capabilities/database.md",
+        "sha256": "0cf0e9c666a2911f2a73415c6b025e6132bb37fea9e3ae4bc7bb022b0f0c8582"
+      },
+      {
+        "path": "knowledge/capabilities/deployment.md",
+        "sha256": "e9fc179276a9b0f7c871ba51c3b296b088c1568eed1c94cad8fe76e4ce9a3e94"
+      },
+      {
+        "path": "knowledge/capabilities/enterprise-readiness.md",
+        "sha256": "85c6cb477121558e1a873e79d5b4094045b96b29bb1f5b1f5bb0b617cfd3f3ba"
+      },
+      {
+        "path": "knowledge/capabilities/frontend-architecture.md",
+        "sha256": "606cf8dcd68f4d4b7868a77f079308f8f1adf1688c65108d94857b0493499de6"
+      },
+      {
+        "path": "knowledge/capabilities/observability.md",
+        "sha256": "62c97b7fc65ce18e13ca9dd53cbc5d594122b39b4adb9a5a5bfed982ec95fb9d"
+      },
+      {
+        "path": "knowledge/capabilities/payments-rails.md",
+        "sha256": "005c825e05feb32b9d15ac1541724db012dc2b1eab448b16f689a74f179823d1"
+      },
+      {
+        "path": "knowledge/capabilities/realtime-voice.md",
+        "sha256": "5b485e5ec6fc873f50c7e16577fdab95a403ec41ba74585f734d318476a415d4"
+      },
+      {
+        "path": "knowledge/capabilities/state-management.md",
+        "sha256": "ba22ec770115fc8f061203c1301ce1e15216875aa2f024ad151b32d3f0059bb7"
+      },
+      {
+        "path": "knowledge/capabilities/styling.md",
+        "sha256": "db315901a8d71736c9f2954c1c504bc6f271988cd2a248fa8b25601ce6e9ec55"
+      },
+      {
+        "path": "knowledge/capabilities/sync-and-collab.md",
+        "sha256": "9ce767fcba9cc101d715a19488f30c3b2083aed2e39ccf77157afe5aab835276"
+      },
+      {
+        "path": "knowledge/capabilities/testing.md",
+        "sha256": "fcec383284225d2984ce423b11cf9d5bfe1e4d33869a4f66030cf0aa97c43f67"
+      },
+      {
+        "path": "knowledge/runtime-tracks/go.md",
+        "sha256": "797a4cc10c0a32bc57338315472f8c77c31a371fb07e06783163099f351af903"
+      },
+      {
+        "path": "knowledge/runtime-tracks/mobile-native.md",
+        "sha256": "bf5b70eef0499a63bdb5aad080439bf5a54afbdbceea55b8ab15e9350a706739"
+      },
+      {
+        "path": "knowledge/runtime-tracks/python.md",
+        "sha256": "8476a9facd3a6d9f82d910f68fabc0b3a90d17436d283802d44b599671b04384"
+      },
+      {
+        "path": "knowledge/runtime-tracks/rails-laravel.md",
+        "sha256": "16f218029ee302bd1ef5622ba1f3eb79ebf87ac824dcb99bf6249f2307f5bb1c"
+      },
+      {
+        "path": "knowledge/runtime-tracks/ts-node.md",
+        "sha256": "a81192512bae64fc31028ac3a9c7b62d4b10d2b51ff93f28dc85ee9fe7617a05"
+      },
+      {
+        "path": "knowledge/shapes/agent-app.md",
+        "sha256": "163d72b8c46b8be7a0cfa7be376353dc4e9d1f95c21ed4f0da6475cf369d4d24"
+      },
+      {
+        "path": "knowledge/shapes/api-backend.md",
+        "sha256": "72f2f4ff4906efd42526903ffa71758b6cfd7844cf91a85e8685e17b19e96cdb"
+      },
+      {
+        "path": "knowledge/shapes/automation-bot-integration.md",
+        "sha256": "85c3ccd9e96bb2a0e9432a9a85600e399ae0dbef36891e6f89017a4ff4684b7b"
+      },
+      {
+        "path": "knowledge/shapes/browser-extension.md",
+        "sha256": "e92512f5b0c9fe9f9762282175abf22b6a86bc3e6f42265ba9e17e84b75a0782"
+      },
+      {
+        "path": "knowledge/shapes/cli-library-mcp.md",
+        "sha256": "85ed94faaeea3713bd2819779453b3a8ba051bb8a105bfeab1514939327192c4"
+      },
+      {
+        "path": "knowledge/shapes/content-community-platform.md",
+        "sha256": "8cad266a75667a190a122665c85df92492e982e1b89282c74e6d7ac2e9e1cede"
+      },
+      {
+        "path": "knowledge/shapes/data-pipeline-analytics.md",
+        "sha256": "a9f4e7cf37eb4d6fdc98892be52be7692bdb67ebe243ddb0595a41485f6e8e9a"
+      },
+      {
+        "path": "knowledge/shapes/desktop-app.md",
+        "sha256": "5cfeebd838ca7cf500a37798112ccd26a1448a32cc8e2b063c1765f5b869ef1c"
+      },
+      {
+        "path": "knowledge/shapes/ecommerce-storefront.md",
+        "sha256": "b4e13bba02670f30eb8905fe739d9a6f5bcd39869ad283b1ffb4f1e8dfa68687"
+      },
+      {
+        "path": "knowledge/shapes/generative-media-app.md",
+        "sha256": "ba153dabdc2d815da030d75ae89a92e6da375bd64860e2c6aab51832ba282ff7"
+      },
+      {
+        "path": "knowledge/shapes/internal-tool.md",
+        "sha256": "bea67b6fd0193968ce77609d000b5fa6bcdac8ce160cd329d8406ed26cb4c605"
+      },
+      {
+        "path": "knowledge/shapes/marketing-site.md",
+        "sha256": "0465a3c7c6504156cc48e299ec43230f5767bc881cc25670fb708adcefbd7fdc"
+      },
+      {
+        "path": "knowledge/shapes/mobile-app.md",
+        "sha256": "c2bd43397685aea2ff5d49bdc8b11f9aec2578cdfe2c9b086082e01da9a2d547"
+      },
+      {
+        "path": "knowledge/shapes/saas-webapp.md",
+        "sha256": "0ac4e928d60c6e3a2832e0f533746c28558e4c736c6ca3cc2e9d9f0a8b2e1101"
+      },
+      {
+        "path": "knowledge/skills-registry.md",
+        "sha256": "deba1b8d00eea2c80ba1a0b6ea871534ef7dc79d981e65273de43507de545a02"
+      },
+      {
+        "path": "knowledge/stack-compatibility.md",
+        "sha256": "418f9a70c572abc13c336224e37fc9b4112ab2c03ad01ecde4d83b2d001998c0"
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "d3e41ebfd21f34e94e5e50bad3191ee8bf6e07c34901dbd54d8e7573a89774dd"
+      },
+      {
+        "path": "questions/phase-1-discovery.md",
+        "sha256": "81329f24cc8d988ceb675dd2b709af129f9fd15cdaf0aaf5a78da94f4d00f7d6"
+      },
+      {
+        "path": "questions/phase-2-branches.md",
+        "sha256": "dd3ebb1732085d6cef0facf12d9d7c6cb9cd4f209cdf8dda3b3296b036d23700"
+      },
+      {
+        "path": "questions/phase-3-confirmation.md",
+        "sha256": "916152692fb5da7512cc95990bd82fca0b5099a8d98c1e703ae53b03d81a5d2d"
+      },
+      {
+        "path": "questions/phase-4-generate.md",
+        "sha256": "2b9cd26a2650d2d9b1febe06f8e14ff97c120ed92de84c84d1d14f7b1a2b5313"
+      },
+      {
+        "path": "SKILL.md",
+        "sha256": "553ea15ae1ec64fc84013eafdecd8ac28d0dda576a54fc98262e27be88ccebf4"
+      },
+      {
+        "path": "templates/blueprint-template.md",
+        "sha256": "c859b11e4399d4f4d85cda649ae747cb6fba744c71354adf3a056d02367e0d4f"
+      },
+      {
+        "path": "templates/agents-md-template.md",
+        "sha256": "35d7231cab2663c976d1d58e24acdeffea17020ecb2503d98ef302262782df10"
+      },
+      {
+        "path": "templates/epic-template.md",
+        "sha256": "6700eeb6eef0f1f31222986023f5c37c33d04f498caad131641f35a61db7f541"
+      },
+      {
+        "path": "templates/tasks-schema.md",
+        "sha256": "591f6362940d405ebdf83ebfb4efed6a63d268eb9efe11243f48e3bc4b5255ab"
+      }
+    ]
+  },
+  "upstreamFiles": [
+    {
+      "path": ".claude-plugin/marketplace.json",
+      "sha256": "2960237229d203373c40e805485aa8f4179e23f0c61cc35b17c9cfe80e63aa4b"
+    },
+    {
+      "path": ".claude-plugin/plugin.json",
+      "sha256": "b25fe92b1ea3cd05eab4fad7ba4cbc15fee76010b6cffe4d50d9ee6bb80f4eaf"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/blueprint-quality.yml",
+      "sha256": "ba452a33590fe0998ec4bd5f649ed3924c5ae360e9b87a14e685fdfd2e7d2541"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "sha256": "d1bacbbc5743e30626a555906999800c47fc38b2e84ece46760d82ee67701fc3"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/new-shape.yml",
+      "sha256": "6b212bf36d65d14e06f4eacadd06604f8284b2eeecee8e1f295c4ccf0f403cf8"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/stale-knowledge.yml",
+      "sha256": "d5e51240491da243734f3db8b7598d015d5b46386bcd2d95e56955be56e18409"
+    },
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "sha256": "9dd274524bdb43d246e8449139c7afa4b7c0a95b61052e8abfe282daef76034e"
+    },
+    {
+      "path": ".github/release.yml",
+      "sha256": "3594dcb1cfd8adabd367c3156b0db296ca9a455121a9789eb8d68369709a0656"
+    },
+    {
+      "path": ".github/workflows/validate.yml",
+      "sha256": "c5b1f905701092f24f0d1e2d0dd844c936d9a2cf71e07b81cd32421723c8d9b7"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "c54d5836a738a0f963d399130a070fe5237f60c0c50434d1c9f88557026edc9d"
+    },
+    {
+      "path": "agents/blueprint-validator.md",
+      "sha256": "e23df11776ce51c11394260191c7df51206a6836b28a2d02b2d3c67fd29f20fc"
+    },
+    {
+      "path": "agents/blueprint-writer.md",
+      "sha256": "404a0a8c09336fbbc8ae8fe9afed61459aca98c7df87b51fd961cac0d68d1f3c"
+    },
+    {
+      "path": "agents/stack-researcher.md",
+      "sha256": "32ac02cb4e0daea715af6a09ed741e2df16ef03ff0582da85c813ced6ab11f49"
+    },
+    {
+      "path": "assets/social-preview.jpg",
+      "sha256": "fa33e4d96d218f4e13c72d78c6eb2c9313447ddc1fb482870d988734e59641cf"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "d7973c29381bb7929e9a7cbc3b583d3c14acea9591d55a5f3ec162e3281b878d"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "e95b1300322f8e3fb0fe948923c973175bee683b5fd443d45cfbff4b69e4da26"
+    },
+    {
+      "path": "commands/architect-audit.md",
+      "sha256": "e57cbc96b6eb62c7d6612eed7f8e56b424a26df88d6997c0b1e267abf0871180"
+    },
+    {
+      "path": "commands/architect-brownfield.md",
+      "sha256": "79bac4807449348ef7ce41ff78295b105cff4d93096ece4c8edae9d966802297"
+    },
+    {
+      "path": "commands/architect-next.md",
+      "sha256": "501729d1bf8aa5d169ac63938acc196061c8b0811d1568a0862e33d4859dd87a"
+    },
+    {
+      "path": "commands/architect-quick.md",
+      "sha256": "0c9536449511b3137644d2a192d18b93306c7259cb76a34e942b66eebfe8c04c"
+    },
+    {
+      "path": "commands/architect-refresh.md",
+      "sha256": "0378f251a5daa4efa4c01f157c41875d079d709a3fa9a09a0c366d3201021000"
+    },
+    {
+      "path": "commands/architect.md",
+      "sha256": "acadbb1020aab023e6b62ef2b65d844302e8c437351f64b68a743bd4f1c9934d"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "115e400b5e11af0c4e18c464dd8c6cb1bce1db09c58073624f94daba8e254513"
+    },
+    {
+      "path": "knowledge/capabilities/accessibility.md",
+      "sha256": "c495b80916b1d9a9b8470b8538b2e02d196bc568656b1eac31f243b7ce885287"
+    },
+    {
+      "path": "knowledge/capabilities/agent-loop.md",
+      "sha256": "28c578948495c2680f8011971726e6dff93a2cf6c28f1cc5f361ce70950871c8"
+    },
+    {
+      "path": "knowledge/capabilities/ai-llm-integration.md",
+      "sha256": "347f5c60de64527011d5b96dfc7147ed83b11fb43c1a20988ac21dab77ebf968"
+    },
+    {
+      "path": "knowledge/capabilities/api-design.md",
+      "sha256": "3c68901a8dc68142931a7ee2903a3afbf52b610352f5a06c2c2986f7d10eb15b"
+    },
+    {
+      "path": "knowledge/capabilities/auth.md",
+      "sha256": "a10100f745c2fe2e415f160cd1d1f893599bd5a3133b46d745f41114b383e929"
+    },
+    {
+      "path": "knowledge/capabilities/availability-engine.md",
+      "sha256": "1b2510e5239b12c047be9703fd8401509871604e4e7b501d7bda57319e5520aa"
+    },
+    {
+      "path": "knowledge/capabilities/credit-metering.md",
+      "sha256": "1ac255c0cb35847dd864de0dfe8e2b14950962856739f0a646cfc18c15528457"
+    },
+    {
+      "path": "knowledge/capabilities/database.md",
+      "sha256": "bf16140894c1f2386be83eb23d916e6d56cad908fcb21d6d90d3f07ecc689e99"
+    },
+    {
+      "path": "knowledge/capabilities/deployment.md",
+      "sha256": "20c7b050ffe62ef5655558534b75b2422e5109ccdae2e83b2a9ebc2ccaec6fde"
+    },
+    {
+      "path": "knowledge/capabilities/enterprise-readiness.md",
+      "sha256": "728c1c390e320a93c69d13952d6f01d201962817ba405258f699844715fb5b86"
+    },
+    {
+      "path": "knowledge/capabilities/frontend-architecture.md",
+      "sha256": "3144df97f2cacab0a831b897d009be25b34cebd29fb10b10f67ee1948c0f6755"
+    },
+    {
+      "path": "knowledge/capabilities/observability.md",
+      "sha256": "12187ffc5a058f8c40cbe63e5c80c06a0dfd04e528996e66b46eb95e400010f7"
+    },
+    {
+      "path": "knowledge/capabilities/payments-rails.md",
+      "sha256": "75fc215f620ff12032cb99ccce2a1584fa9d6e99b54a19e4ca3f4ff0148f60bc"
+    },
+    {
+      "path": "knowledge/capabilities/realtime-voice.md",
+      "sha256": "f8229b3c3b5ec46abf474eaa2b1645778a51c74ed013aca9c51a14ca2fab2569"
+    },
+    {
+      "path": "knowledge/capabilities/state-management.md",
+      "sha256": "37510c23dcf7dc68da6a8281f41d42b2964ab24ccb0baac452e9e166da37444a"
+    },
+    {
+      "path": "knowledge/capabilities/styling.md",
+      "sha256": "99f783f71ad4c60c237a1c26a674fd12f6bc59624c99377d5d6c2ca979ef21c3"
+    },
+    {
+      "path": "knowledge/capabilities/sync-and-collab.md",
+      "sha256": "aeebf387cd362928ba690e7aaddc4449b9b812136805119d7260db5f57f3071d"
+    },
+    {
+      "path": "knowledge/capabilities/testing.md",
+      "sha256": "796c3327e05d4e613810b5cfb2a5383d073cf3e088c13b465ba09761c0e66312"
+    },
+    {
+      "path": "knowledge/runtime-tracks/go.md",
+      "sha256": "d77d827ee7eabd190b7ff2685134c33dbc0f9a3c29bd77c0ba949546f2de991b"
+    },
+    {
+      "path": "knowledge/runtime-tracks/mobile-native.md",
+      "sha256": "5c1dad56ffb71781bb84ddf53dd54038b7e1a15437b7905833fd101656ba29ca"
+    },
+    {
+      "path": "knowledge/runtime-tracks/python.md",
+      "sha256": "20fbfde202e9a7b4008aebb7519491bbd120463cb9903efdf55c4c06a087e992"
+    },
+    {
+      "path": "knowledge/runtime-tracks/rails-laravel.md",
+      "sha256": "c8f2736cdfea601b6fffcc36f81629413917fddd3ee0648f1e8e73825b6d9bf2"
+    },
+    {
+      "path": "knowledge/runtime-tracks/ts-node.md",
+      "sha256": "3431706e805ea91781c9675b460510fc87b973f6cacbd374f688ca6542f82a63"
+    },
+    {
+      "path": "knowledge/shapes/agent-app.md",
+      "sha256": "e020e74265a87677a0f8c597c2626a485556a5cb04fb1843dbae9f910f6c6905"
+    },
+    {
+      "path": "knowledge/shapes/api-backend.md",
+      "sha256": "4d9214a450fb3576a3a5dfd28b8039deedd5f462831a3cf2a174cf5dc1722633"
+    },
+    {
+      "path": "knowledge/shapes/automation-bot-integration.md",
+      "sha256": "c17031046196f0149ab71948072fbf05210831b39aa75cada8160b7642f87ae2"
+    },
+    {
+      "path": "knowledge/shapes/browser-extension.md",
+      "sha256": "edb9c3c785c98edf0ff5c7e7b3218cf5183828202dffd6f6cdd044282adb2b1a"
+    },
+    {
+      "path": "knowledge/shapes/cli-library-mcp.md",
+      "sha256": "ec115b9452852848addbb221ce7d7b66e424e260c81f2ce6e89357163cf16c68"
+    },
+    {
+      "path": "knowledge/shapes/content-community-platform.md",
+      "sha256": "25fbbdf5be40729f76093fda734b5a3ea438a98d854f5f53ccff1df4bb06b766"
+    },
+    {
+      "path": "knowledge/shapes/data-pipeline-analytics.md",
+      "sha256": "385e4c28d3ecb329304e12e75d7f817dbf05f34a35fbf7e4efee3acfc2fa8425"
+    },
+    {
+      "path": "knowledge/shapes/desktop-app.md",
+      "sha256": "aa942ee9a48f35ec8c1c209540c7986e50661febf4e36de6b71683ed6e81ef41"
+    },
+    {
+      "path": "knowledge/shapes/ecommerce-storefront.md",
+      "sha256": "859528473e56d1bafa97f7dd6d02d5368d4b497d85d4885a163781949a626fe7"
+    },
+    {
+      "path": "knowledge/shapes/generative-media-app.md",
+      "sha256": "97d59a4c3055816578576b044a59a1409e3e4863b9aa6727555360c52fb53e57"
+    },
+    {
+      "path": "knowledge/shapes/internal-tool.md",
+      "sha256": "57107ac96f114ec7cb8702dc87d0c88fde83e751070f1bac2f1e611927afe9d7"
+    },
+    {
+      "path": "knowledge/shapes/marketing-site.md",
+      "sha256": "54ae4b0f5ba1cc18fa0404912f73d6eb5c075f95fc36bbcf8ae74fc3fe154cd8"
+    },
+    {
+      "path": "knowledge/shapes/mobile-app.md",
+      "sha256": "b956feb88bdc81097aa571d550b2b4de11e6bd8a2aec5dfec8b087a64d4965a6"
+    },
+    {
+      "path": "knowledge/shapes/saas-webapp.md",
+      "sha256": "7037e91268dbaf78bc67a2b35cf9b72d69ee26629c697cf383a891113d2b4a41"
+    },
+    {
+      "path": "knowledge/skills-registry.md",
+      "sha256": "8a7248d70b273ff78422788e57e3da9e425a76479fe7331ddc2a44e1713b14ed"
+    },
+    {
+      "path": "knowledge/stack-compatibility.md",
+      "sha256": "144a7712368545995b39635f0b066c08f1e3c9dc111b4592bfbf3ba5c2bd5cb5"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "ff93e3179334a96093844680aa971db884eecc66bcc5600bb59d1444f044355b"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "3e87aa2715074953686fc4fc6601645bb3f45caccaa4677583f6cdebae9909aa"
+    },
+    {
+      "path": "questions/phase-1-discovery.md",
+      "sha256": "97bb01703ad8e0c82241de844bd47b77d46f803d393e55c4178c6a744fff16c0"
+    },
+    {
+      "path": "questions/phase-2-branches.md",
+      "sha256": "4c8cca7a4815ee2eb138eb387a07845c99232e7c9b4a227bed1b307fba25f7a7"
+    },
+    {
+      "path": "questions/phase-3-confirmation.md",
+      "sha256": "c84329ad9a51b69d7ddf4e92141fe21468cc8998403772a330386d0a230006d1"
+    },
+    {
+      "path": "questions/phase-4-generate.md",
+      "sha256": "68c899b4d30681a724ce57ed493437ef53523c8f0b7cf908594cd43263e0d612"
+    },
+    {
+      "path": "README.md",
+      "sha256": "946d45f67bb9e5d55ae9883650d499a44074a062a6da74449cbb0ba5cc1fb3dd"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "d72cd6ef59d34d212a2ca7c899d319f7321faf4a0d6942ac5b461158f1dd8b8c"
+    },
+    {
+      "path": "skills/architect/SKILL.md",
+      "sha256": "0a0c56cdc618706be204772e8fc5007ad36933e8c95d641e5191d3a1138b10a9"
+    },
+    {
+      "path": "templates/blueprint-template.md",
+      "sha256": "75c6ea5ae4902a50041c8250a7966f03ba25db7533787fa55f18d6249f62a7f9"
+    },
+    {
+      "path": "templates/claude-md-template.md",
+      "sha256": "d6a410220cf05962f3f25406296f2b51d369eae692d43b5ea8e915ad0a3d77d3"
+    },
+    {
+      "path": "templates/epic-template.md",
+      "sha256": "7ee7720d4169036d9457ddd6ca6bfff6152f9ecace9c786155d87bff895c0559"
+    },
+    {
+      "path": "templates/tasks-schema.md",
+      "sha256": "fb6264906dd8e4e28978841b60967d323fd3d70e45a354c07911c0d78bdbb715"
+    },
+    {
+      "path": "VERSIONING.md",
+      "sha256": "3abc7fa9573e394e2af0714331d1e783e5ad852c7d05d9b68d177c45e77221d7"
+    }
+  ]
+}

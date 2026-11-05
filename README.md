@@ -13,7 +13,23 @@ Adaptación y documentación de Alanmeza.ai sobre el proyecto original. Consulta
 Para probar el plugin Claude desde esta raíz: `claude --plugin-dir ./claude`.
 Para Codex copia la carpeta completa `codex/skills/armalo` a un destino de skills nuevo. Las guías incluyen PowerShell con protección contra sobrescritura.
 
-Este repositorio está preparado localmente para revisión. No se afirma que haya un repositorio público ni releases remotos. Los comandos de GitHub se añadirán a la distribución pública una vez exista y se compruebe el destino.
+Repositorio público: [Alanmezaoficial/armalo](https://github.com/Alanmezaoficial/armalo). Incluye ambas ediciones, sus guías y avisos de procedencia.
+
+## Obtener desde GitHub
+
+```text
+git clone https://github.com/Alanmezaoficial/armalo.git
+cd armalo
+```
+
+Para instalar el plugin en Claude Code:
+
+```text
+/plugin marketplace add Alanmezaoficial/armalo
+/plugin install armalo@alanmeza-armalo
+```
+
+Para Codex, sigue la [guía de instalación](docs/guia-codex.md) y copia la carpeta completa indicada arriba. Los comandos públicos apuntan a este repositorio; su existencia no demuestra activación conversacional en el host.
 
 ## Contenido
 
@@ -21,10 +37,9 @@ Este repositorio está preparado localmente para revisión. No se afirma que hay
 
 ## Versiones
 
-Versión derivada: **1.0.0**, candidata local de revisión. La revisión original se identifica por commit en `upstream.lock.json`; ese número no pretende ser la versión del creador.
+Versión derivada: **1.0.0**. La revisión original se identifica por commit en `upstream.lock.json`; ese número no pretende ser la versión del creador.
 
 ## Desarrollo y pruebas
 
 Usa un entorno Python aislado e instala requirements-dev.txt; después ejecuta python -m pytest tests --import-mode=importlib. Estas dependencias son de validación, no del sitio ni del runtime de la skill. La ejecución del host conversacional se verifica aparte.
-
 

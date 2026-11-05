@@ -1,0 +1,13 @@
+{
+  "name": "alanmeza-armalo",
+  "owner": {
+    "name": "Alanmeza.ai"
+  },
+  "plugins": [
+    {
+      "name": "armalo",
+      "source": "./claude",
+      "description": "Convierte una idea en un plano para construir."
+    }
+  ]
+}

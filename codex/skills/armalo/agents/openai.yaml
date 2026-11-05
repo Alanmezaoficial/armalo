@@ -1,0 +1,8 @@
+interface:
+  icon_large: "./assets/icon.svg"
+  display_name: "Ármalo"
+  short_description: "Diseña un blueprint validado antes de construir."
+  brand_color: "#5B4BDB"
+  default_prompt: "Usa $armalo para entrevistarme y diseñar un blueprint completo para mi proyecto."
+policy:
+  allow_implicit_invocation: true

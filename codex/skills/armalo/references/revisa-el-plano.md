@@ -1,0 +1,3 @@
+# Ármalo: revisa el plano
+
+Entrada: ruta de un archivo Markdown o bundle. Audita sin editar. Lee [el validador](../agents/blueprint-validator.md) y [sus controles](controles-del-plano.md). Reporta PASS solo con cero BLOCKER y cero MAJOR, con hallazgos ubicados por archivo/sección, cobertura y limitaciones. Comprueba la integridad de tasks/épicas según su esquema, no imponiendo el del original a un plano Codex existente. Un plano de un formato anterior puede carecer de contratos; explica la brecha sin confundirla con un fallo del diseño. Una revisión estática no demuestra que la aplicación esté construida ni ejecutada.

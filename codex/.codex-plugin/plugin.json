@@ -1,0 +1,10 @@
+{
+  "name": "armalo",
+  "version": "1.0.0",
+  "description": "Convierte una idea en un plano para construir.",
+  "author": {
+    "name": "Alanmeza.ai"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}
