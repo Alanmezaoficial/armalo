@@ -1,0 +1,13 @@
+{
+  "name": "alanmeza-armalo",
+  "owner": {
+    "name": "Alanmeza.ai"
+  },
+  "plugins": [
+    {
+      "name": "armalo",
+      "source": "./",
+      "description": "Ármalo · Manos a la Obra"
+    }
+  ]
+}
